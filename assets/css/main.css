@@ -1,0 +1,45 @@
+body{
+    color: #fff;
+}
+#title{
+	background-color: #ee6e73;
+	margin: 0;
+	color: #fff;
+	padding-right: 14%
+}
+#containerCentrado{
+	margin-top: -26px;
+	background-color: #ABE188;
+	border-top: 20px solid  #ee6e73;
+    border-bottom: 20px solid  #ee6e73;
+}
+.parrafo{
+	margin-top: 3%;
+	margin-bottom: 1%;
+	background-color: #ee6e73;
+}
+.groupImg{
+	margin-top: -26px;
+	background-color: #ABE188;
+	border-top: 20px solid  #ee6e73;
+    border-bottom: 20px solid  #ee6e73;
+}
+.groupImg img{
+	border: 10px solid #fff;
+}
+#rowImg{
+	margin-bottom: -6px;
+
+}
+.imgPandas{
+	width: 100%;
+}
+#sinPadd{
+	padding: 0
+}
+#sinPadd2{
+	padding: 0
+}
+#sinPadd3{
+	padding: 0
+}
